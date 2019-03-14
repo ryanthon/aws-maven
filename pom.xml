@@ -79,17 +79,6 @@
 		</dependency>
 	</dependencies>
 
-    <distributionManagement>
-        <repository>
-            <id>titanhst-maven-release</id>
-            <url>s3://titanhst-maven/release</url>
-        </repository>
-        <snapshotRepository>
-            <id>titanhst-maven-snapshot</id>
-            <url>s3://titanhst-maven/snapshot</url>
-        </snapshotRepository>
-    </distributionManagement>
-
 	<build>
 		<plugins>
 			<plugin>
