@@ -14,7 +14,7 @@ To publish Maven artifacts to S3 a build extension must be defined in a project'
       <extension>
         <groupId>com.titanhst.build</groupId>
         <artifactId>aws-maven</artifactId>
-        <version>5.0.0.RELEASE</version>
+        <version>1.0.0</version>
       </extension>
       ...
     </extensions>
