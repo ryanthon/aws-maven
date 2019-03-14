@@ -1,4 +1,4 @@
-.idea/libraries
-.idea/tasks.xml
-.idea/workspace.xml
-target
+.idea
+target/
+*.iml
+.DS_Store
